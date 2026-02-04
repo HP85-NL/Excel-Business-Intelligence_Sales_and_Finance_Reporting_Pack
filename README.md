@@ -54,7 +54,7 @@ To ensure the solution is robust and scalable, I followed a professional ETL (Ex
 
 ---
 
-7. **🛠️ Skills & Competencies**
+**🛠️ Skills & Competencies**
 *  Advanced Data Modeling
 *  DAX (Data Analysis Expressions)
 *  ETL Automation (Power Query)
@@ -64,7 +64,7 @@ To ensure the solution is robust and scalable, I followed a professional ETL (Ex
 
 ---
 
-8. **Soft Skills**
+**Soft Skills**
 * Strategic Sparring  Partner
 * Stakeholder Management (Polder Model)
 * Stakeholder Management (Polder Model)
