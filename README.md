@@ -29,24 +29,6 @@ AtliQ Hardware's departments operated in silos with disconnected Excel files, cr
 | **Margin Protection** | At risk | Automated governance | 💰 **3% margin leakage prevented** (~$180K annually) |
 | **Report Adoption** | Fragmented | 100% of deals >10% | 🌍 **Universal adoption** |
 
-## 🛠️ Technical Methodology (The "How")
-To ensure the solution is robust and scalable, I followed a professional ETL (Extract, Transform, Load) approach:
-
-1. **Data Analysis (Power Query):** Used for automated data cleaning, merging fragmented CSV/Excel exports, and enforcing data types to ensure data integrity. Performed advanced data shaping, including unpivoting, attribute standardization, and merging multi-year datasets to establish a "Single Source of Truth."
-2. **Data Modeling:** Built a star-schema-inspired model within Excel to link Sales, Targets, and P&L data efficiently with Power Pivot and DAX. _[Data Model](Data%20Model.jpg)_
-3. **Decision Logic:** Built dynamic "What-If" models for discount approvals and project prioritization. _[Scenario Planning Tool for (Discount Approval)](02_Data_Analytics/07_Scenario_planning_Tool_Discouunt_approval.pdf)_
-4. **Tabular Report Design:** Eschewed "flashy" visuals in favor of Executive-Standard Tabular Reports. This approach prioritizes data density, precision, and auditability that is critical for Finance and C-Suite stakeholders.
-
----
-
-## 📂 Project Governance & Artifacts (BA Pack)
-
-### [Business_Analytics](./01_Business_Analytics/)
-1. Mini-BRD: Defines scope, "As-Is" vs "To-Be" states, and functional requirements. _[As_Is vs To_Be](As-Is%20vs%20To-Be%20diagram.png)_, _[Mini_BRD](01_Business_Analytics/Mini_BRD_BA.pdf)_
-2. Stakeholder RACI: Ensures clear accountability across Finance, Sales, and Marketing. _[Stakeholder_RACI](01_Business_Analytics/Stakeholders_RACI.pdf)_
-3. KPI DictionaryThe "Single Source of Truth" for metrics like Gross Profit, Operating Margin, and Variance. _[KPI_Dictionary](01_Business_Analytics/KPI_Dictionary_and_Business_Rules_BA.pdf)_
-4. UAT & Validation: A rigorous sign-off process ensuring data accuracy and reconciliation against source systems. _[UAT_Validation](01_Business_Analytics/Validation_UAT_Signoff.pdf)_
-
 ---
 
 ## 📊 Strategic Reporting Outputs
@@ -69,6 +51,26 @@ _[Scenario planning tool for discount approval](02_Data_Analytics/07_Scenario_pl
 
 ---
 
+## 🛠️ Technical Methodology (The "How")
+To ensure the solution is robust and scalable, I followed a professional ETL (Extract, Transform, Load) approach:
+
+1. **Data Analysis (Power Query):** Used for automated data cleaning, merging fragmented CSV/Excel exports, and enforcing data types to ensure data integrity. Performed advanced data shaping, including unpivoting, attribute standardization, and merging multi-year datasets to establish a "Single Source of Truth."
+2. **Data Modeling:** Built a star-schema-inspired model within Excel to link Sales, Targets, and P&L data efficiently with Power Pivot and DAX. _[Data Model](Data%20Model.jpg)_
+3. **Decision Logic:** Built dynamic "What-If" models for discount approvals and project prioritization. _[Scenario Planning Tool for (Discount Approval)](02_Data_Analytics/07_Scenario_planning_Tool_Discouunt_approval.pdf)_
+4. **Tabular Report Design:** Eschewed "flashy" visuals in favor of Executive-Standard Tabular Reports. This approach prioritizes data density, precision, and auditability that is critical for Finance and C-Suite stakeholders.
+
+---
+
+## 📂 Project Governance & Artifacts (BA Pack)
+
+### [Business_Analytics](./01_Business_Analytics/)
+1. Mini-BRD: Defines scope, "As-Is" vs "To-Be" states, and functional requirements. _[As_Is vs To_Be](As-Is%20vs%20To-Be%20diagram.png)_, _[Mini_BRD](01_Business_Analytics/Mini_BRD_BA.pdf)_
+2. Stakeholder RACI: Ensures clear accountability across Finance, Sales, and Marketing. _[Stakeholder_RACI](01_Business_Analytics/Stakeholders_RACI.pdf)_
+3. KPI DictionaryThe "Single Source of Truth" for metrics like Gross Profit, Operating Margin, and Variance. _[KPI_Dictionary](01_Business_Analytics/KPI_Dictionary_and_Business_Rules_BA.pdf)_
+4. UAT & Validation: A rigorous sign-off process ensuring data accuracy and reconciliation against source systems. _[UAT_Validation](01_Business_Analytics/Validation_UAT_Signoff.pdf)_
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 **Technical Skills**
@@ -80,18 +82,22 @@ _[Scenario planning tool for discount approval](02_Data_Analytics/07_Scenario_pl
 
 **Business Analysis Skills**
 * **Requirements Gathering**: Stakeholder interviews, BRD documentation, UAT planning
-* Stakeholder Management (Polder Model)
-* Stakeholder Management (Polder Model)
+* **Stakeholder Management:** Cross-functional alignment using the Polder Model
 * Designing user-centric reports with empathy in mind
 
 ---
 
 ## 📩 Contact & Professional Sparring
-I am a Business Analyst who speaks both "Data" and "Business." If you are looking for a sparring partner to optimize your reporting processes, let's connect.
+I am a Business Analyst who speaks both "Data" and "Business." 
+Looking for: Business Analyst, Data Analyst, or BI Analyst roles where I can be a strategic sparring partner to optimize reporting processes and drive data-driven decision-making. 
 **[https://www.linkedin.com/in/harshil-patel-188b2274/]**
 
+---
 
-
+## 📝 Technical Notes 
+**Data Privacy:** AtliQ Hardware is a fictional company used for portfolio demonstration
+**Tools Used:** Microsoft Excel, Power Query, Power Pivot, DAX
+**Date Range: FY 2019–2021 (3 years of historical data)
 
 
 
